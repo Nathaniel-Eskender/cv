@@ -1,0 +1,30 @@
+body {
+  background-color: #AAD8D3;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.pfp {
+height: 157px;
+}
+.Broccoli {
+height: 15px;
+}
+.book {
+height: 25px;
+}
+.laptop {
+height: 20px
+}
+h1 {
+  color: #000001;
+}
+
+h3 {
+  color: #66BFBF;
+}

@@ -28,6 +28,8 @@ h1 {
 }
 .cloud5 {
   position: relative;
+  bottom: 350px;
+  right: 10px;
 }
 .mount {
   position: relative;

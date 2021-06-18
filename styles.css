@@ -12,16 +12,6 @@ h1 {
 .top {
   background-color: #AAD8D3;
 }
-.cloud1 {
-  position: relative;
-  left: 300px;
-  top: 20px;
-}
-.cloud2 {
-  position: absolute;
-  left: 600px;
-  bottom: 700px;
-}
 .very-top {
   background-color: #AAD8D3;
   height:45px;
@@ -38,9 +28,6 @@ h1 {
 }
 .cloud5 {
   position: relative;
-  right: 100px;
-  bottom: 350px;
-  left: 40px;
 }
 .mount {
   position: relative;

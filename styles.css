@@ -120,3 +120,6 @@ hr {
   background-image: linear-gradient(to bottom, #3e0cc7, #00ffbf);
   text-decoration: none;
 }
+.warn {
+  height: 20px;
+}

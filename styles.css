@@ -119,10 +119,3 @@ hr {
   background-image: -o-linear-gradient(top, #3e0cc7, #00ffbf);
   background-image: linear-gradient(to bottom, #3e0cc7, #00ffbf);
   text-decoration: none;
-}
-.warn {
-  height: 20px;
-}
-.warn1 {
-  height: 20px;
-}

@@ -24,8 +24,10 @@ h1 {
 }
 .cloud {
   position: relative;
-  left: 250px;
+  left: 260px;
+  top: 15px;
 }
+
 .cloud5 {
   position: relative;
   bottom: 350px;
